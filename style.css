@@ -17,6 +17,10 @@ h1.hv:hover  {
   text-align: center;
   
        }
+.ma{
+  text-color:Orange;
+  background-color: yellow;
+}
 
 .cl{ 
   color: red;
