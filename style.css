@@ -1,6 +1,6 @@
 .back {
   background-color: skyblue;
-  width:20px;
+  padding: 10px 24px;
 }
 h1.hv:hover  {
   background-color: yellow;
@@ -12,7 +12,7 @@ h1.hv:hover  {
   display: inline-block;
   padding: 10px 24px;
   
-  background-color: pink;
+  background-color: red;
   text-align: center;
   
        }
